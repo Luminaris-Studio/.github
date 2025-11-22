@@ -1,39 +1,27 @@
 # ✨ Luminaris Studio
 
-Welcome to **Luminaris Studio** - where creativity meets technology in game development!
+Welcome to **Luminaris Studio**, a small indie game development studio!
 
 ## 🎮 About Us
 
-Luminaris Studio is an indie game development studio founded by two passionate creators who share a vision of crafting unique and immersive gaming experiences. We blend artistic storytelling with technical excellence to bring imaginative worlds to life.
+Luminaris Studio is a small indie game development studio founded by two friends combining their skills in technology and art. We're working on our first game project together.
 
 ## 👥 The Team
 
 ### Pixidream
 **DevSecOps & Software Architect**
 
-With a strong background in software architecture and DevSecOps, Pixidream brings technical expertise and robust development practices to ensure our games are built on solid foundations. From infrastructure to implementation, they ensure quality and security at every level.
+Pixidream has a background in software architecture and DevSecOps, handling the technical side of development.
 
 ### Kal
 **Comic Illustrator & Architect**
 
-Kal brings a unique perspective with a degree in architecture and expertise in comic illustration. This combination of spatial design thinking and visual storytelling creates rich, visually compelling game worlds with strong narrative elements.
+Kal has a degree in architecture and works as a comic illustrator, bringing artistic and visual storytelling skills to the project.
 
-## 🛠️ Technology
+## 🎮 Our First Game
 
-We're building our games with **Godot Engine**, an open-source game engine that gives us the flexibility and power to realize our creative vision while maintaining full control over our development process.
-
-## 🎯 Our Vision
-
-At Luminaris Studio, we believe in:
-- 🌟 Creating memorable gaming experiences
-- 🎨 Blending art and technology seamlessly
-- 🔓 Embracing open-source tools and community
-- 💡 Pushing creative boundaries
-
-## 📬 Connect With Us
-
-We're just getting started on this exciting journey! Stay tuned for updates on our first game.
+We're currently working on a **2D isometric fantasy game** focused on character development. For this project, we're using **Godot Engine**, an open-source game engine that fits our needs for this style of game.
 
 ---
 
-*Illuminating the path forward, one game at a time.* ✨
+*We're just getting started on this journey!* ✨
